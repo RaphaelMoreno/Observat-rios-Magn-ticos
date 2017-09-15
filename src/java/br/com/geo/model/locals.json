@@ -1,0 +1,1356 @@
+{
+	"locais": [{
+			"IAGA": "AAA",
+			"Name": "Alma Ata",
+			"Country": "Kazakhstan",
+			"Colatitute": "46.8",
+			"EastLongitude": "76.9",
+			"Institute": "IIRK",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "AAE",
+			"Name": "Addis Ababa",
+			"Country": "Ethiopia",
+			"Colatitute": "80.97",
+			"EastLongitude": "38.77",
+			"Institute": "AAU",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "ABG",
+			"Name": "Alibag",
+			"Country": "India",
+			"Colatitute": "71.38",
+			"EastLongitude": "72.87",
+			"Institute": "IIG",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "ABK",
+			"Name": "Abisko",
+			"Country": "Sweden",
+			"Colatitute": "21.642",
+			"EastLongitude": "18.823",
+			"Institute": "SGU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "AIA",
+			"Name": "Argentine Islands (Akademik Vernadsky base)",
+			"Country": "Antarctica",
+			"Colatitute": "155.25",
+			"EastLongitude": "295.75",
+			"Institute": "NASC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "ALE*",
+			"Name": "Alert",
+			"Country": "Canada",
+			"Colatitute": "7.503",
+			"EastLongitude": "297.647",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "AMS",
+			"Name": "Martin de Vivies-Amsterdam Island",
+			"Country": "French Southern and Antarctic Lands",
+			"Colatitute": "127.8",
+			"EastLongitude": "77.57",
+			"Institute": "EOST",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "API",
+			"Name": "Apia",
+			"Country": "Western Samoa",
+			"Colatitute": "103.8",
+			"EastLongitude": "188.22",
+			"Institute": "MNRE",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "AQU*",
+			"Name": "L'Aquila",
+			"Country": "Italy",
+			"Colatitute": "47.62",
+			"EastLongitude": "13.32",
+			"Institute": "INGV",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "ARS",
+			"Name": "Arti",
+			"Country": "Russia",
+			"Colatitute": "33.567",
+			"EastLongitude": "58.567",
+			"Institute": "IG UB RAS",
+			"GIN": " GCRAS"
+		},
+		{
+			"IAGA": "ASC",
+			"Name": "Ascension Island",
+			"Country": "United Kingdom",
+			"Colatitute": "97.95",
+			"EastLongitude": "345.62",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "ASP",
+			"Name": "Alice Springs",
+			"Country": "Australia",
+			"Colatitute": "113.77",
+			"EastLongitude": "133.88",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "BDV",
+			"Name": "Budkov",
+			"Country": "Czech Republic",
+			"Colatitute": "40.92",
+			"EastLongitude": "14.02",
+			"Institute": "ASCR",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "BEL",
+			"Name": "Belsk",
+			"Country": "Poland",
+			"Colatitute": "38.16",
+			"EastLongitude": "20.79",
+			"Institute": "PAS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "BFE*",
+			"Name": "Brorfelde",
+			"Country": "Denmark",
+			"Colatitute": "34.375",
+			"EastLongitude": "11.672",
+			"Institute": "DTU",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "BFO",
+			"Name": "Black Forest",
+			"Country": "Germany",
+			"Colatitute": "41.669",
+			"EastLongitude": "8.325",
+			"Institute": "GGUKS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "BLC",
+			"Name": "Baker Lake",
+			"Country": "Canada",
+			"Colatitute": "25.682",
+			"EastLongitude": "263.988",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "BMT",
+			"Name": "Beijing Ming Tombs",
+			"Country": "China",
+			"Colatitute": "49.7",
+			"EastLongitude": "116.2",
+			"Institute": "IGGCAS",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "BNG*",
+			"Name": "Bangui",
+			"Country": "Central African Republic",
+			"Colatitute": "85.67",
+			"EastLongitude": "18.57",
+			"Institute": "IRD",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "BOU",
+			"Name": "Boulder",
+			"Country": "United States of America",
+			"Colatitute": "49.86",
+			"EastLongitude": "254.76",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "BOX",
+			"Name": "Borok",
+			"Country": "Russia",
+			"Colatitute": "31.93",
+			"EastLongitude": "38.23",
+			"Institute": "GCRAS",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "BRD",
+			"Name": "Brandon",
+			"Country": "Canada",
+			"Colatitute": "40.13",
+			"EastLongitude": "260.0261",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "BRW",
+			"Name": "Barrow",
+			"Country": "United States of America",
+			"Colatitute": "18.68",
+			"EastLongitude": "203.38",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "BSL",
+			"Name": "Stennis Space Center",
+			"Country": "United States of America",
+			"Colatitute": "59.65",
+			"EastLongitude": "270.36",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "CBB",
+			"Name": "Cambridge Bay",
+			"Country": "Canada",
+			"Colatitute": "20.877",
+			"EastLongitude": "254.969",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "CKI",
+			"Name": "Cocos-Keeling Islands",
+			"Country": "Australia",
+			"Colatitute": "102.1875",
+			"EastLongitude": "96.8336",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "CLF",
+			"Name": "Chambon la Foret",
+			"Country": "France",
+			"Colatitute": "41.98",
+			"EastLongitude": "2.27",
+			"Institute": "IPGP",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "CMO",
+			"Name": "College",
+			"Country": "United States of America",
+			"Colatitute": "25.13",
+			"EastLongitude": "212.14",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "CNB",
+			"Name": "Canberra",
+			"Country": "Australia",
+			"Colatitute": "125.32",
+			"EastLongitude": "149.36",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "CNH",
+			"Name": "Changchun",
+			"Country": "China",
+			"Colatitute": "45.92",
+			"EastLongitude": "124.86",
+			"Institute": "CEA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "CSY",
+			"Name": "Casey Station",
+			"Country": "Antarctica",
+			"Colatitute": "156.283",
+			"EastLongitude": "110.533",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "CTA",
+			"Name": "Charters Towers",
+			"Country": "Australia",
+			"Colatitute": "110.1",
+			"EastLongitude": "146.3",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "CYG",
+			"Name": "Cheongyang",
+			"Country": "Republic of Korea",
+			"Colatitute": "53.63",
+			"EastLongitude": "126.854",
+			"Institute": "KMA",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "CZT",
+			"Name": "Port Alfred",
+			"Country": "French Southern and Antarctic Lands",
+			"Colatitute": "136.43",
+			"EastLongitude": "51.87",
+			"Institute": "EOST",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "DED",
+			"Name": "Deadhorse",
+			"Country": "United States of America",
+			"Colatitute": "19.64",
+			"EastLongitude": "211.21",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "DLR*",
+			"Name": "Del Rio",
+			"Country": "United States of America",
+			"Colatitute": "60.5",
+			"EastLongitude": "259.08",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "DLT",
+			"Name": "Dalat",
+			"Country": "Vietnam",
+			"Colatitute": "78.06",
+			"EastLongitude": "108.48",
+			"Institute": "VAST",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "DMC",
+			"Name": "Dome C",
+			"Country": "Antarctica",
+			"Colatitute": "165.25",
+			"EastLongitude": "124.167",
+			"Institute": "EOST",
+			"GIN": " INGV"
+		},
+		{
+			"IAGA": "DOU",
+			"Name": "Dourbes",
+			"Country": "Belgium",
+			"Colatitute": "39.9",
+			"EastLongitude": "4.6",
+			"Institute": "RMIB",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "DRV",
+			"Name": "Dumont d'Urville",
+			"Country": "Antarctica",
+			"Colatitute": "156.67",
+			"EastLongitude": "140.01",
+			"Institute": "EOST",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "DUR",
+			"Name": "Duronia",
+			"Country": "Italy",
+			"Colatitute": "48.61",
+			"EastLongitude": "14.28",
+			"Institute": "INGV",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "EBR",
+			"Name": "Ebro",
+			"Country": "Spain",
+			"Colatitute": "49.043",
+			"EastLongitude": "0.333",
+			"Institute": "OEB",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "ESK",
+			"Name": "Eskdalemuir",
+			"Country": "United Kingdom",
+			"Colatitute": "34.68",
+			"EastLongitude": "356.8",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "EYR",
+			"Name": "Eyrewell",
+			"Country": "New Zealand",
+			"Colatitute": "133.474",
+			"EastLongitude": "172.393",
+			"Institute": "GNS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "FCC",
+			"Name": "Fort Churchill",
+			"Country": "Canada",
+			"Colatitute": "31.241",
+			"EastLongitude": "265.912",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "FRD",
+			"Name": "Fredericksburg",
+			"Country": "United States of America",
+			"Colatitute": "51.8",
+			"EastLongitude": "282.63",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "FRN",
+			"Name": "Fresno",
+			"Country": "United States of America",
+			"Colatitute": "52.91",
+			"EastLongitude": "240.28",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "FUR",
+			"Name": "Furstenfeldbruck",
+			"Country": "Germany",
+			"Colatitute": "41.83",
+			"EastLongitude": "11.28",
+			"Institute": "LMU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "GAN",
+			"Name": "Gan",
+			"Country": "Maldives",
+			"Colatitute": "89.3054",
+			"EastLongitude": "73.1537",
+			"Institute": "ETH",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "GCK",
+			"Name": "Grocka",
+			"Country": "Serbia",
+			"Colatitute": "45.4",
+			"EastLongitude": "20.8",
+			"Institute": "GIG",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "GDH",
+			"Name": "Qeqertarsuaq (Godhavn)",
+			"Country": "Greenland",
+			"Colatitute": "20.748",
+			"EastLongitude": "306.467",
+			"Institute": "DTU",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "GLN*",
+			"Name": "Glenlea",
+			"Country": "Canada",
+			"Colatitute": "40.355",
+			"EastLongitude": "262.880",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "GNA*",
+			"Name": "Gnangara",
+			"Country": "Australia",
+			"Colatitute": "121.8",
+			"EastLongitude": "116.0",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "GNG",
+			"Name": "Gingin",
+			"Country": "Australia",
+			"Colatitute": "121.356",
+			"EastLongitude": "115.715",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "GUA",
+			"Name": "Guam",
+			"Country": "United States of America",
+			"Colatitute": "76.41",
+			"EastLongitude": "144.87",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "GUI",
+			"Name": "Guimar-Tenerife",
+			"Country": "Spain",
+			"Colatitute": "61.68",
+			"EastLongitude": "343.57",
+			"Institute": "IGNS",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "GZH",
+			"Name": "Zhaoqing",
+			"Country": "China",
+			"Colatitute": "67",
+			"EastLongitude": "112.5",
+			"Institute": "CEA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HAD",
+			"Name": "Hartland",
+			"Country": "United Kingdom",
+			"Colatitute": "39",
+			"EastLongitude": "355.52",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HBK",
+			"Name": "Hartebeesthoek",
+			"Country": "South Africa",
+			"Colatitute": "115.88",
+			"EastLongitude": "27.71",
+			"Institute": "SANSA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HER",
+			"Name": "Hermanus",
+			"Country": "South Africa",
+			"Colatitute": "124.43",
+			"EastLongitude": "19.23",
+			"Institute": "SANSA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HLP",
+			"Name": "Hel",
+			"Country": "Poland",
+			"Colatitute": "35.39",
+			"EastLongitude": "18.82",
+			"Institute": "PAS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HON",
+			"Name": "Honolulu",
+			"Country": "United States of America",
+			"Colatitute": "68.68",
+			"EastLongitude": "202.0",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "HRB",
+			"Name": "Hurbanovo",
+			"Country": "Slovakia",
+			"Colatitute": "42.14",
+			"EastLongitude": "18.19",
+			"Institute": "SAS",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "HRN",
+			"Name": "Hornsund",
+			"Country": "Norway",
+			"Colatitute": "13",
+			"EastLongitude": "15.37",
+			"Institute": "PAS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HUA",
+			"Name": "Huancayo",
+			"Country": "Peru",
+			"Colatitute": "102.05",
+			"EastLongitude": "284.67",
+			"Institute": "IGP",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "HYB",
+			"Name": "Hyderabad",
+			"Country": "India",
+			"Colatitute": "72.6",
+			"EastLongitude": "78.6",
+			"Institute": "NGRI",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "IPM",
+			"Name": "Isla de Pascua Mataveri (Easter Island)",
+			"Country": "Chile",
+			"Colatitute": "117.2",
+			"EastLongitude": "250.58",
+			"Institute": "DMC",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "IQA",
+			"Name": "Iqaluit",
+			"Country": "Canada",
+			"Colatitute": "26.247",
+			"EastLongitude": "291.482",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "IRT",
+			"Name": "Irkutsk",
+			"Country": "Russia",
+			"Colatitute": "37.73",
+			"EastLongitude": "104.45",
+			"Institute": "ISTP SB RAS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "ISK*",
+			"Name": "Kandilli",
+			"Country": "Turkey",
+			"Colatitute": "48.9",
+			"EastLongitude": "29.1",
+			"Institute": "KEORI",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "IZN",
+			"Name": "Iznik",
+			"Country": "Turkey",
+			"Colatitute": "49.5",
+			"EastLongitude": "29.72",
+			"Institute": "KEORI",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "JAI",
+			"Name": "Jaipur",
+			"Country": "India",
+			"Colatitute": "63.08",
+			"EastLongitude": "75.80",
+			"Institute": "IIG",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "JCO",
+			"Name": "Jim Carrigan Observatory",
+			"Country": "United States of America",
+			"Colatitute": "19.644",
+			"EastLongitude": "148.799",
+			"Institute": "HAL",
+			"GIN": " BGS"
+		},
+		{
+			"IAGA": "KAK",
+			"Name": "Kakioka",
+			"Country": "Japan",
+			"Colatitute": "53.77",
+			"EastLongitude": "140.18",
+			"Institute": "JMA",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "KDU",
+			"Name": "Kakadu",
+			"Country": "Australia",
+			"Colatitute": "102.69",
+			"EastLongitude": "132.47",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "KEP",
+			"Name": "King Edward Point",
+			"Country": "South Georgia and the South Sandwich Islands",
+			"Colatitute": "144.2821",
+			"EastLongitude": "323.5071",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "KHB",
+			"Name": "Khabarovsk",
+			"Country": "Russia",
+			"Colatitute": "42.39",
+			"EastLongitude": "134.69",
+			"Institute": "IKIR",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "KIV",
+			"Name": "Kiev",
+			"Country": "Ukraine",
+			"Colatitute": "39.28",
+			"EastLongitude": "30.3",
+			"Institute": "NASU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "KMH",
+			"Name": "Keetmanshoop",
+			"Country": "Namibia",
+			"Colatitute": "116.54",
+			"EastLongitude": "18.110",
+			"Institute": "SANSA",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "KNY",
+			"Name": "Kanoya",
+			"Country": "Japan",
+			"Colatitute": "58.58",
+			"EastLongitude": "130.88",
+			"Institute": "JMA",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "KOU",
+			"Name": "Kourou",
+			"Country": "French Guiana",
+			"Colatitute": "84.79",
+			"EastLongitude": "307.27",
+			"Institute": "IPGP",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "LER",
+			"Name": "Lerwick",
+			"Country": "United Kingdom",
+			"Colatitute": "29.87",
+			"EastLongitude": "358.82",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "LNP*",
+			"Name": "Lunping",
+			"Country": "Taiwan",
+			"Colatitute": "65",
+			"EastLongitude": "121.2",
+			"Institute": "DGT",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "LON",
+			"Name": "Lonjsko Polje",
+			"Country": "Croatia",
+			"Colatitute": "44.5919",
+			"EastLongitude": "16.6592",
+			"Institute": "UNIZG",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "LOV*",
+			"Name": "Lovoe",
+			"Country": "Sweden",
+			"Colatitute": "30.66",
+			"EastLongitude": "17.82",
+			"Institute": "SGU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "LRM",
+			"Name": "Learmonth",
+			"Country": "Australia",
+			"Colatitute": "112.22",
+			"EastLongitude": "114.1",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "LVV",
+			"Name": "Lviv",
+			"Country": "Ukraine",
+			"Colatitute": "40.1",
+			"EastLongitude": "23.75",
+			"Institute": "NASU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "LYC",
+			"Name": "Lycksele",
+			"Country": "Sweden",
+			"Colatitute": "25.4",
+			"EastLongitude": "18.8",
+			"Institute": "SGU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "LZH",
+			"Name": "Lanzhou",
+			"Country": "China",
+			"Colatitute": "53.9",
+			"EastLongitude": "103.84",
+			"Institute": "CEA",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "MAB",
+			"Name": "Manhay",
+			"Country": "Belgium",
+			"Colatitute": "39.702",
+			"EastLongitude": "5.682",
+			"Institute": "RMIB",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "MAW",
+			"Name": "Mawson",
+			"Country": "Antarctica",
+			"Colatitute": "157.6",
+			"EastLongitude": "62.88",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "MBC*",
+			"Name": "Mould Bay",
+			"Country": "Canada",
+			"Colatitute": "13.685",
+			"EastLongitude": "240.638",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "MBO",
+			"Name": "Mbour",
+			"Country": "Senegal",
+			"Colatitute": "75.62",
+			"EastLongitude": "343.03",
+			"Institute": "IPGP",
+			"GIN": " IRD"
+		},
+		{
+			"IAGA": "MCQ",
+			"Name": "Macquarie Island",
+			"Country": "Australia",
+			"Colatitute": "144.5",
+			"EastLongitude": "158.95",
+			"Institute": "GA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "MEA",
+			"Name": "Meanook",
+			"Country": "Canada",
+			"Colatitute": "35.384",
+			"EastLongitude": "246.653",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "MGD",
+			"Name": "Magadan",
+			"Country": "Russia",
+			"Colatitute": "29.949",
+			"EastLongitude": "150.728",
+			"Institute": "IKIR",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "MID*",
+			"Name": "Midway Island",
+			"Country": "United States of America",
+			"Colatitute": "61.79",
+			"EastLongitude": "182.62",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "MMB",
+			"Name": "Memambetsu",
+			"Country": "Japan",
+			"Colatitute": "46.09",
+			"EastLongitude": "144.19",
+			"Institute": "JMA",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "NAQ",
+			"Name": "Narsarsuaq",
+			"Country": "Greenland",
+			"Colatitute": "28.84",
+			"EastLongitude": "314.558",
+			"Institute": "DTU",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "NCK",
+			"Name": "Nagycenk",
+			"Country": "Hungary",
+			"Colatitute": "42.37",
+			"EastLongitude": "16.72",
+			"Institute": "HAS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "NEW",
+			"Name": "Newport",
+			"Country": "United States of America",
+			"Colatitute": "41.73",
+			"EastLongitude": "242.88",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "NGK",
+			"Name": "Niemegk",
+			"Country": "Germany",
+			"Colatitute": "37.93",
+			"EastLongitude": "12.68",
+			"Institute": "GFZ",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "NUR",
+			"Name": "Nurmijarvi",
+			"Country": "Finland",
+			"Colatitute": "29.49",
+			"EastLongitude": "24.66",
+			"Institute": "FMI",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "NVS",
+			"Name": "Novosibirsk",
+			"Country": "Russia",
+			"Colatitute": "35.15",
+			"EastLongitude": "83.23",
+			"Institute": "ASB GS SB RAS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "ORC",
+			"Name": "Orcadas",
+			"Country": "Argentina",
+			"Colatitute": "150.737",
+			"EastLongitude": "315.26",
+			"Institute": "SMN",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "OTT",
+			"Name": "Ottawa",
+			"Country": "Canada",
+			"Colatitute": "44.597",
+			"EastLongitude": "284.448",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "PAF",
+			"Name": "Port-aux-Francais",
+			"Country": "French Southern and Antarctic Lands",
+			"Colatitute": "139.35",
+			"EastLongitude": "70.26",
+			"Institute": "EOST",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "PAG",
+			"Name": "Panagjurishte",
+			"Country": "Bulgaria",
+			"Colatitute": "47.5",
+			"EastLongitude": "24.2",
+			"Institute": "NIGGG-BAS",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "PBQ*",
+			"Name": "Poste-de-la-Baleine",
+			"Country": "Canada",
+			"Colatitute": "34.723",
+			"EastLongitude": "282.255",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "PEG",
+			"Name": "Pedeli",
+			"Country": "Greece",
+			"Colatitute": "51.9",
+			"EastLongitude": "23.9",
+			"Institute": "IGME",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "PET",
+			"Name": "Paratunka",
+			"Country": "Russia",
+			"Colatitute": "37.029",
+			"EastLongitude": "158.248",
+			"Institute": "IKIR",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "PHU",
+			"Name": "Phuthuy",
+			"Country": "Vietnam",
+			"Colatitute": "68.97",
+			"EastLongitude": "105.95",
+			"Institute": "VAST",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "PIL",
+			"Name": "Pilar",
+			"Country": "Argentina",
+			"Colatitute": "121.4",
+			"EastLongitude": "296.12",
+			"Institute": "SMN",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "PPT",
+			"Name": "Pamatai",
+			"Country": "French Polynesia",
+			"Colatitute": "107.57",
+			"EastLongitude": "210.42",
+			"Institute": "IPGP",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "PST",
+			"Name": "Port Stanley",
+			"Country": "Falkland Islands",
+			"Colatitute": "141.7",
+			"EastLongitude": "302.11",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "QSB*",
+			"Name": "Qsaybeh",
+			"Country": "Lebanon",
+			"Colatitute": "56.1",
+			"EastLongitude": "35.6",
+			"Institute": "NCGR",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "RES",
+			"Name": "Resolute Bay",
+			"Country": "Canada",
+			"Colatitute": "15.31",
+			"EastLongitude": "265.105",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "SBA",
+			"Name": "Scott Base",
+			"Country": "Antarctica",
+			"Colatitute": "167.85",
+			"EastLongitude": "166.78",
+			"Institute": "GNS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "SBL",
+			"Name": "Sable Island",
+			"Country": "Canada",
+			"Colatitute": "46.0679",
+			"EastLongitude": "299.9905",
+			"Institute": "BGS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "SFS",
+			"Name": "San Fernando",
+			"Country": "Spain",
+			"Colatitute": "53.333",
+			"EastLongitude": "354.055",
+			"Institute": "RIOA",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "SHU",
+			"Name": "Shumagin",
+			"Country": "United States of America",
+			"Colatitute": "34.65",
+			"EastLongitude": "199.54",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "SIT",
+			"Name": "Sitka",
+			"Country": "United States of America",
+			"Colatitute": "32.94",
+			"EastLongitude": "224.67",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "SJG",
+			"Name": "San Juan",
+			"Country": "United States of America",
+			"Colatitute": "71.89",
+			"EastLongitude": "293.85",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "SOD",
+			"Name": "Sodankyla",
+			"Country": "Finland",
+			"Colatitute": "22.63",
+			"EastLongitude": "26.63",
+			"Institute": "SOD",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "SON",
+			"Name": "Sonmiani",
+			"Country": "Pakistan",
+			"Colatitute": "64.8832",
+			"EastLongitude": "66.4487",
+			"Institute": "SUPARCO",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "SPG",
+			"Name": "Saint Petersburg",
+			"Country": "Russia",
+			"Colatitute": "29.458",
+			"EastLongitude": "29.716",
+			"Institute": "GCRAS",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "SPT",
+			"Name": "San Pablo-Toledo",
+			"Country": "Spain",
+			"Colatitute": "50.45",
+			"EastLongitude": "355.65",
+			"Institute": "IGNS",
+			"GIN": "Par"
+		},
+		{
+			"IAGA": "STJ",
+			"Name": "St John's",
+			"Country": "Canada",
+			"Colatitute": "42.405",
+			"EastLongitude": "307.323",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "SUA",
+			"Name": "Surlari",
+			"Country": "Romania",
+			"Colatitute": "45.32",
+			"EastLongitude": "26.25",
+			"Institute": "GIR",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "TAM",
+			"Name": "Tamanrasset",
+			"Country": "Algeria",
+			"Colatitute": "67.21",
+			"EastLongitude": "5.53",
+			"Institute": "CRAAG",
+			"GIN": " IPGP"
+		},
+		{
+			"IAGA": "TAN*",
+			"Name": "Antananarivo",
+			"Country": "Madagascar",
+			"Colatitute": "108.917",
+			"EastLongitude": "47.552",
+			"Institute": "IOGA",
+			"GIN": " EOST"
+		},
+		{
+			"IAGA": "TDC",
+			"Name": "Tristan da Cunha",
+			"Country": "Tristan da Cunha",
+			"Colatitute": "127.067",
+			"EastLongitude": "347.685",
+			"Institute": "GFZ",
+			"GIN": " DTU"
+		},
+		{
+			"IAGA": "TEO*",
+			"Name": "Teoloyucan",
+			"Country": "Mexico",
+			"Colatitute": "70.25",
+			"EastLongitude": "260.81",
+			"Institute": "IG/UNAM",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "THL",
+			"Name": "Qaanaaq (Thule)",
+			"Country": "Greenland",
+			"Colatitute": "12.53",
+			"EastLongitude": "290.773",
+			"Institute": "DTU",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "THY",
+			"Name": "Tihany",
+			"Country": "Hungary",
+			"Colatitute": "43.1",
+			"EastLongitude": "17.89",
+			"Institute": "MFGI",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "TIK*",
+			"Name": "Tixie Bay",
+			"Country": "Russia",
+			"Colatitute": "18.4",
+			"EastLongitude": "129.0",
+			"Institute": "IZMIRAN",
+			"GIN": "NA"
+		},
+		{
+			"IAGA": "TRW",
+			"Name": "Trelew",
+			"Country": "Argentina",
+			"Colatitute": "133.3",
+			"EastLongitude": "294.7",
+			"Institute": "UNLP",
+			"GIN": " RMIB"
+		},
+		{
+			"IAGA": "TSU",
+			"Name": "Tsumeb",
+			"Country": "Namibia",
+			"Colatitute": "109.202",
+			"EastLongitude": "17.584",
+			"Institute": "SANSA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "TUC",
+			"Name": "Tucson",
+			"Country": "United States of America",
+			"Colatitute": "57.82",
+			"EastLongitude": "249.27",
+			"Institute": "USGS",
+			"GIN": "Gol"
+		},
+		{
+			"IAGA": "UPS",
+			"Name": "Uppsala",
+			"Country": "Sweden",
+			"Colatitute": "30.097",
+			"EastLongitude": "17.353",
+			"Institute": "SGU",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "VAL",
+			"Name": "Valentia",
+			"Country": "Ireland",
+			"Colatitute": "38.067",
+			"EastLongitude": "349.75",
+			"Institute": "IMS",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "VIC",
+			"Name": "Victoria",
+			"Country": "Canada",
+			"Colatitute": "41.48",
+			"EastLongitude": "236.580",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": "VNA",
+			"Name": "Neumayer Station Ⅲ",
+			"Country": "Antarctica",
+			"Colatitute": "160.683",
+			"EastLongitude": "-8.283",
+			"Institute": "AWI",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "VOS",
+			"Name": "Vostok",
+			"Country": "Antarctica",
+			"Colatitute": "168.464",
+			"EastLongitude": "106.835",
+			"Institute": "AARI",
+			"GIN": "Kyo"
+		},
+		{
+			"IAGA": "VSS",
+			"Name": "Vassouras",
+			"Country": "Brazil",
+			"Colatitute": "112.4",
+			"EastLongitude": "316.35",
+			"Institute": "ON",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "WIC",
+			"Name": "Conrad Observatory",
+			"Country": "Austria",
+			"Colatitute": "42.0695",
+			"EastLongitude": "15.8657",
+			"Institute": "ZAMG",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "WMQ",
+			"Name": "Urumqi",
+			"Country": "China",
+			"Colatitute": "46.19",
+			"EastLongitude": "87.71",
+			"Institute": "CEA",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "WNG",
+			"Name": "Wingst",
+			"Country": "Germany",
+			"Colatitute": "36.26",
+			"EastLongitude": "9.07",
+			"Institute": "GFZ",
+			"GIN": "Edi"
+		},
+		{
+			"IAGA": "YAK",
+			"Name": "Yakutsk",
+			"Country": "Russia",
+			"Colatitute": "28.04",
+			"EastLongitude": "129.66",
+			"Institute": "IKFIA",
+			"GIN": " GFZ"
+		},
+		{
+			"IAGA": "YKC",
+			"Name": "Yellowknife",
+			"Country": "Canada",
+			"Colatitute": "27.52",
+			"EastLongitude": "245.518",
+			"Institute": "GSC",
+			"GIN": "Ott"
+		},
+		{
+			"IAGA": ""
+		}
+	]
+}
